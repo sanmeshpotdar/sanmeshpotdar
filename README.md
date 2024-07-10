@@ -32,6 +32,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Profile Visits](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <!--
 **sanmeshpotdar/sanmeshpotdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
